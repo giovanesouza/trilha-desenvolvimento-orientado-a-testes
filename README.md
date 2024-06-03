@@ -76,7 +76,7 @@ CalculadoraApp/
 ├── CalculadoraApp.sln
 ```
 
-## Descrição da Estrutura
+### Descrição da Estrutura
 
 * `CalculadoraApp/`: Diretório raiz da solução.
     * `Calculadora/`: Diretório do projeto de console.
